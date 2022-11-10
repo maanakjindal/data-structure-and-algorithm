@@ -1,5 +1,5 @@
 //                       Maanak Jindal
-//                       ECE 21105068
+//                       ECE 21105065
 /*                         
 [Ans.1]
 
