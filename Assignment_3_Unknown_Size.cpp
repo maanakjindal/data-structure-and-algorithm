@@ -1,5 +1,5 @@
-#include <iostream>  //Name : Nitin
-using namespace std; // ECE SID : 21105091
+#include <iostream>  //Name : Maanak Jindal
+using namespace std; // ECE SID : 21105068
 
 /*
 
